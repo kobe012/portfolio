@@ -69,8 +69,8 @@ export const Hero = () => {
             {...fadeUp(0.36)}
             className="text-[15px] leading-[1.8] text-[#b8b4ad] max-w-md mb-8"
           >
-            I build clean, functional web experiences and ship
-            products people enjoy using. Let&apos;s work together.
+            NA
+
           </motion.p>
 
           {/* Stack pills */}
@@ -97,7 +97,7 @@ export const Hero = () => {
               Resume
             </a>
             <a
-              href="mailto:hello@you.dev"
+              href="mailto:vksanjuannn@gmail.com"
               className="text-[12px] tracking-widest uppercase text-[#f0ede6] border-b border-[#f0ede6] pb-0.5 transition-colors hover:text-[#c8f04a] hover:border-[#c8f04a]"
             >
               Email me →

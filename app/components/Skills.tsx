@@ -85,7 +85,7 @@ export const Skills = () => {
           className="text-[clamp(40px,6vw,72px)] leading-none mb-12"
           style={{ fontFamily: "'DM Serif Display', serif" }}
         >
-          My <em className="italic text-[#6b6760]">stack.</em>
+          <em className="italic text-[#6b6760]">My stack.</em>
         </motion.h1>
 
         {/* Main 6-card grid */}

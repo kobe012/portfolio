@@ -41,7 +41,7 @@ export const Header = () => {
 
       {/* CTA */}
       <a
-        href="mailto:hello@you.dev"
+        href="mailto:vksanjuannn@gmail.com"
         className="hidden sm:block text-[12px] tracking-widest uppercase text-[#f0ede6] border-b border-[#f0ede6] pb-0.5 hover:text-[#c8f04a] hover:border-[#c8f04a] transition-colors duration-200"
       >
         Get in touch →
