@@ -69,7 +69,7 @@ export const Hero = () => {
             {...fadeUp(0.36)}
             className="text-[15px] leading-[1.8] text-[#b8b4ad] max-w-md mb-8"
           >
-            NA
+            {/*NA*/}
 
           </motion.p>
 
