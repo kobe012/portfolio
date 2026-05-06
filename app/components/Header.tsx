@@ -20,7 +20,7 @@ export const Header = () => {
     >
       {/* Logo / Name */}
       <Link
-        href="/"
+        href="header/"
         className="text-[13px] tracking-[0.15em] uppercase text-[#f0ede6] hover:text-[#c8f04a] transition-colors duration-200"
       >
         Kobe<span className="text-[#c8f04a]">.</span>
